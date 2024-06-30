@@ -2,6 +2,9 @@
 
 Video explanation of the database development process: https://youtu.be/sYbYDESx8LA?si=_hj5qxOcrOprgveP
 
+<img width="676" alt="fitnessERD" src="https://github.com/anitatan2003/FitnessClub-Database/assets/77257907/1508bd42-1849-43c1-a8ec-07867ba93a2d">
+
+
 ## Business topic: Health and fitness (24-hour fitness)
 - Competitive industry that has adapted to the changes brought upon by the
 pandemic
