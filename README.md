@@ -45,3 +45,4 @@ diet)
 - Set performance goals: Review performance metrics to set goals for revenue growth,
 customer retention, member acquisition, and other key performance indicators.
 
+INFO330 Databases & Data Modeling - Anita Tan, Emily Ma, Taran Bains & Youngjin Ma
